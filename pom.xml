@@ -21,7 +21,7 @@
             <version>8.0.33</version>
         </dependency>
     </dependencies>
-    <build>
+   <build>
     <plugins>
         <!-- Plugin to create executable fat JAR -->
         <plugin>
@@ -50,5 +50,4 @@
         </plugin>
     </plugins>
 </build>
-
 </project>
